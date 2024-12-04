@@ -8,8 +8,12 @@ Le rôle principal du SOC est de détecter, analyser et répondre efficacement a
 Dans ce cadre, les objectifs clés du projet incluent :
 
 Analyse des besoins organisationnels : Identifier les menaces spécifiques à l’entreprise, évaluer les ressources existantes, et définir les objectifs de surveillance.
+
 Conception de l’architecture SOC : Élaborer une infrastructure adaptée, intégrant des outils avancés de supervision (SIEM, EDR, IDS/IPS) et des tableaux de bord analytiques pour la visualisation des données.
+
 Automatisation et orchestration : Mettre en place des mécanismes d’automatisation pour accélérer la détection des incidents, l’analyse des journaux, et les réponses correctives.
+
 Formation et organisation des équipes : Définir les rôles des analystes, ingénieurs, et responsables, tout en structurant les processus de collaboration.
+
 Mise en conformité : Assurer que le SOC respecte les réglementations et normes de sécurité (ISO 27001, GDPR, etc.).
 En finalité, ce SOC permettra à l’entreprise d’améliorer sa résilience face aux cybermenaces tout en optimisant la visibilité sur son environnement numérique et en renforçant sa posture de sécurité globale.
