@@ -25,10 +25,12 @@ Nous avons choisi la topologie au dessous pour isoler le réseau interne du rés
 
 On a utilisé pfSense qui est un système d'exploitation open-source basé sur FreeBSD, conçu pour fonctionner comme un pare-feu. Il offre une interface web intuitive permettant de configurer et de gérer facilement des fonctions de sécurité réseau avancées.
 
-On a commencé par installé pfsense
+On a commencé par installé pfsense :
+
 ![pfsense](https://github.com/user-attachments/assets/11a7c666-ad81-402f-8ef7-d462685392de)
 
-Puis confiuration des interfaces réseau
+Puis la onfiuration des interfaces réseau:
+
 <img width="478" alt="int" src="https://github.com/user-attachments/assets/57219b3e-09b7-41cb-8530-d57c6e28ff0a">
 
 Voici l'interface graphique de pfsense :
