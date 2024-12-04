@@ -17,3 +17,8 @@ Formation et organisation des équipes : Définir les rôles des analystes, ing�
 
 Mise en conformité : Assurer que le SOC respecte les réglementations et normes de sécurité (ISO 27001, GDPR, etc.).
 En finalité, ce SOC permettra à l’entreprise d’améliorer sa résilience face aux cybermenaces tout en optimisant la visibilité sur son environnement numérique et en renforçant sa posture de sécurité globale.
+
+
+Nous avons choisi la topologie au dessous pour isoler le réseau interne du réseau externe, en utilisant un pare-feu pour filtrer et sécuriser le trafic entre les deux. Le routeur externe permet de connecter notre réseau à l'opérateur ou à Internet, tandis que le routeur interne répartit le trafic entre les sous-réseaux dédiés aux PC et aux serveurs. Cette structure nous permet non seulement de contrôler et sécuriser les échanges de données, mais aussi de capturer et analyser le trafic à différents points, afin de tester la performance du réseau et la sécurité des connexions.
+
+
