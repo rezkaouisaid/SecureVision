@@ -1,4 +1,4 @@
-# SecureVision
+![topologie](https://github.com/user-attachments/assets/5bba9158-01e8-46c3-ab7f-cbb67abcf5f2)# SecureVision
 Projet : Conception d’un Centre de Surveillance de la Sécurité (SOC)
 
 Ce projet vise à concevoir et déployer un Centre de Surveillance de la Sécurité (Security Operations Center, SOC) pour une entreprise. Le SOC constitue une entité stratégique dédiée à la supervision proactive et en temps réel des infrastructures critiques, notamment les réseaux, les systèmes, les applications et les données sensibles.
@@ -20,5 +20,8 @@ En finalité, ce SOC permettra à l’entreprise d’améliorer sa résilience f
 
 
 Nous avons choisi la topologie au dessous pour isoler le réseau interne du réseau externe, en utilisant un pare-feu pour filtrer et sécuriser le trafic entre les deux. Le routeur externe permet de connecter notre réseau à l'opérateur ou à Internet, tandis que le routeur interne répartit le trafic entre les sous-réseaux dédiés aux PC et aux serveurs. Cette structure nous permet non seulement de contrôler et sécuriser les échanges de données, mais aussi de capturer et analyser le trafic à différents points, afin de tester la performance du réseau et la sécurité des connexions.
+
+![topologie](https://github.com/user-attachments/assets/194169ba-3fc9-464c-aaf5-e17141c0f252)
+
 
 
