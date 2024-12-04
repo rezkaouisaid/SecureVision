@@ -1,4 +1,4 @@
-![topologie](https://github.com/user-attachments/assets/5bba9158-01e8-46c3-ab7f-cbb67abcf5f2)# SecureVision
+# SecureVision
 Projet : Conception d’un Centre de Surveillance de la Sécurité (SOC)
 
 Ce projet vise à concevoir et déployer un Centre de Surveillance de la Sécurité (Security Operations Center, SOC) pour une entreprise. Le SOC constitue une entité stratégique dédiée à la supervision proactive et en temps réel des infrastructures critiques, notamment les réseaux, les systèmes, les applications et les données sensibles.
