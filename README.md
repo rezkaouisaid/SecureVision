@@ -29,7 +29,7 @@ On a commencé par installé pfsense :
 
 ![pfsense](https://github.com/user-attachments/assets/11a7c666-ad81-402f-8ef7-d462685392de)
 
-Puis la onfiuration des interfaces réseau:
+Puis la configuration des interfaces réseau:
 
 <img width="478" alt="int" src="https://github.com/user-attachments/assets/57219b3e-09b7-41cb-8530-d57c6e28ff0a">
 
