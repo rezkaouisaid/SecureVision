@@ -31,7 +31,15 @@ On a commencé par installé pfsense :
 
 
 Voici l'interface graphique de pfsense :
-![Uploading gui.png…]()
+
+
+<img width="960" alt="gui" src="https://github.com/user-attachments/assets/efed5170-15c3-452f-82ab-84619c11feb9">
+
+
+
+
+
+
 
 
 
