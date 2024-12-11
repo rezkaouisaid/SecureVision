@@ -27,15 +27,13 @@ On a utilisé pfSense qui est un système d'exploitation open-source basé sur F
 
 On a commencé par installé pfsense :
 
-![pfsense](https://github.com/user-attachments/assets/11a7c666-ad81-402f-8ef7-d462685392de)
+<img width="341" alt="CLI" src="https://github.com/user-attachments/assets/536c215a-19e6-495a-af8e-c1631f9de732">
 
-Puis la configuration des interfaces réseau:
-
-<img width="478" alt="int" src="https://github.com/user-attachments/assets/57219b3e-09b7-41cb-8530-d57c6e28ff0a">
 
 Voici l'interface graphique de pfsense :
+![Uploading gui.png…]()
 
-<img width="494" alt="gui" src="https://github.com/user-attachments/assets/4c62c5ba-bf1f-4031-9a66-a57d27cc5dc0">
+
 
 
 
